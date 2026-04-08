@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.775);
+    text-align: center;
+    margin-top: 250px;
+    
+}
+
+
+h1{
+    color: rgb(0, 0, 0);
+    
+}
+
+.button-start{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    cursor: pointer;
+    background-color: blue;
+    border:solid;
+}  
+
+.button-stop{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    cursor: pointer;
+    background-color: rgb(255, 0, 0);
+    border:solid;
+}
+
+.button-reset{
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    cursor: pointer;
+    background-color: rgb(5, 197, 15);
+    border:solid;
+}
